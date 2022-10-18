@@ -1,7 +1,7 @@
 
 [<img src="https://images-ext-1.discordapp.net/external/JfosIY-kvTVgNvuHbAeBglxsmtT-ICTEHxT-5KLGYgI/https/www.apexunitedcorp.com/wp-content/uploads/2018/05/nested-tree-cropped.png"/>]
 
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="60" height="60"] />(https://www.linkedin.com/in/carolinatogni/)
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="60" height="60"/>](https://www.linkedin.com/in/carolinatogni/)
 <p style="font-size: 24px"><em> <p>
 <p style="font-size: 24px"><em> </p>
 
