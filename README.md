@@ -1,5 +1,5 @@
 
-[<img src="https://images-ext-1.discordapp.net/external/JfosIY-kvTVgNvuHbAeBglxsmtT-ICTEHxT-5KLGYgI/https/www.apexunitedcorp.com/wp-content/uploads/2018/05/nested-tree-cropped.png"/>]
+<img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76111741ff64cff381ea7f5991eb6db50c3997b67234&rid=giphy.gif&ct=g">
 
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="60" height="60"/>](https://www.linkedin.com/in/carolinatogni/)
 <p style="font-size: 24px"><em> <p>
@@ -14,7 +14,5 @@
 
 
 ### Frameworks & Environments 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.icons8.com/color/96/angularjs.png)
+![Node](https://img.icons8.com/fluency/96/node-js.png)
